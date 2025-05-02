@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\Task1,2,3 & 4.csproj": {}
+    "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\CarTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\Task1,2,3 & 4.csproj": {
+    "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\CarTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\Task1,2,3 & 4.csproj",
-        "projectName": "Task1,2,3 & 4",
-        "projectPath": "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\Task1,2,3 & 4.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\CarTask.csproj",
+        "projectName": "CarTask",
+        "projectPath": "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\CarTask.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pc\\Codes\\CisTeam\\OOP\\Task1\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Users\pc\Codes\CisTeam\OOP\Task1\bin\Debug\net9.0\CarTask.exe
+C:\Users\pc\Codes\CisTeam\OOP\Task1\bin\Debug\net9.0\CarTask.deps.json
+C:\Users\pc\Codes\CisTeam\OOP\Task1\bin\Debug\net9.0\CarTask.runtimeconfig.json
+C:\Users\pc\Codes\CisTeam\OOP\Task1\bin\Debug\net9.0\CarTask.dll
+C:\Users\pc\Codes\CisTeam\OOP\Task1\bin\Debug\net9.0\CarTask.pdb
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\CarTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\CarTask.AssemblyInfoInputs.cache
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\CarTask.AssemblyInfo.cs
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\CarTask.csproj.CoreCompileInputs.cache
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\CarTask.sourcelink.json
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\CarTask.dll
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\refint\CarTask.dll
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\CarTask.pdb
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\CarTask.genruntimeconfig.cache
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\ref\CarTask.dll

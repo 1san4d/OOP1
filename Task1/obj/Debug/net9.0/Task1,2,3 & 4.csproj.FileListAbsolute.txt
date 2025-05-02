@@ -12,3 +12,4 @@ C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\refint\Task1,2,3 & 4.dll
 C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\Task1,2,3 & 4.pdb
 C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\Task1,2,3 & 4.genruntimeconfig.cache
 C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\ref\Task1,2,3 & 4.dll
+C:\Users\pc\Codes\CisTeam\OOP\Task1\obj\Debug\net9.0\Task1,2,3 & 4.sourcelink.json
