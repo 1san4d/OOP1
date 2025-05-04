@@ -5,13 +5,18 @@ using Microsoft.VisualBasic;
 
 namespace Task1;
 
-public class Car
+public abstract class Vehicle
 {
-    public static int GasolineCarCount = AllCarCount - ElectricCarCount;
+    public abstract void Move();
+}
+public class Car : Vehicle
+{
+
     public static int ElectricCarCount = 0;
     public static int AllCarCount = 0;
+    public int GasolineCarCount = AllCarCount - ElectricCarCount;
     protected string brand; protected string name; protected int year; protected string model;
-    
+
     public int Year
     {
         get
@@ -44,17 +49,22 @@ public class Car
         this.name = name;
         this.model = model;
         AllCarCount++;
+        // GasolineCarCount++;
     }
     public virtual void PrintInfo()
     {
         System.Console.WriteLine($"Your car is {name}, Brand: {brand}, Model: {model}, Released in: {year}.");
     }
-    public virtual void StartEngine()
+    public override void Move()
     {
-        System.Console.WriteLine("\"Enginge is starting...\"\n\"Brrrrrrrrrrrrrrrrrrrrr.............\"");
+        System.Console.WriteLine("Using Gasoline.... \"Brrrrrrrrrrrrrrrrrrrrr.............\" ");
     }
-    public virtual void StopEngine()
-    {
-        System.Console.WriteLine("\"Enginge is stopping...\"\n\"shhhhh.......\"");
-    }
+    // public virtual void StartEngine()
+    // {
+    //     System.Console.WriteLine("\"Enginge is starting...\"\n\"Brrrrrrrrrrrrrrrrrrrrr.............\"");
+    // }
+    // public virtual void StopEngine()
+    // {
+    //     System.Console.WriteLine("\"Enginge is stopping...\"\n\"shhhhh.......\"");
+    // }
 }
